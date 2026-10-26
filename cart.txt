@@ -1,1 +1,2 @@
 echo Rice - Quantity 2
+Milk - Quantity 1
